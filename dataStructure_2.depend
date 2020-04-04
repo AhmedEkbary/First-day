@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1584206963 source:/home/hossamaltokhy/Desktop/Project/dataStructure_2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"DlinkedList.h"
+
+1584206020 /home/hossamaltokhy/Desktop/Project/dataStructure_2/DlinkedList.h
+
+1584206579 source:/home/hossamaltokhy/Desktop/Project/dataStructure_2/DlinkedList.c
+	<stdio.h>
+	"DlinkedList.h"
+
+1584211525 source:d:\embedded\c programs _ alex\data_structure_3\datastructure_2\dlinkedlist.c
+	<stdio.h>
+	"DlinkedList.h"
+
+1584210204 d:\embedded\c programs _ alex\data_structure_3\datastructure_2\dlinkedlist.h
+
+1584207370 source:d:\embedded\c programs _ alex\data_structure_3\datastructure_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DlinkedList.h"
+
